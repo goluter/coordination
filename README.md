@@ -47,6 +47,6 @@ $ yarn run dev
 
 # 기타 추가 정보
 ### DB 접속 정보
-H2: http://${host}/h2-console/login.do?jsessionid=dc11542008d4db3032b19b41a02d43e3
-username: codi
-password: password
+- H2: http://${host}/h2-console/login.do?jsessionid=dc11542008d4db3032b19b41a02d43e3
+- username: codi
+- password: password
