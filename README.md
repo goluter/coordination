@@ -7,6 +7,11 @@
 - 단일 브랜드 최저가 API 구현(/lowest-prices)
 
 # 미리보기
+<img width="1153" alt="image" src="https://github.com/user-attachments/assets/e6186165-c8cd-4de9-98fd-86eff4575dc9">
+<img width="1159" alt="image" src="https://github.com/user-attachments/assets/ee79aa0b-ac1d-40b7-8d62-4e6a70b09509">
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/90f14471-e409-42fa-aac7-fced40356655">
+<img width="1170" alt="image" src="https://github.com/user-attachments/assets/d49521db-ce58-4449-8be6-d66ab7726494">
+<img width="1167" alt="image" src="https://github.com/user-attachments/assets/29b12e36-f554-4116-bd3b-543b48d741a8">
 
 
 # 구조
