@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8085:8085"
+    environment:
+      - SPRING_PROFILES_ACTIVE=local
+    volumes:
+      - ./backend:/app
+      - ~/.gradle:/root/.gradle
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:
