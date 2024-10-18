@@ -9,22 +9,19 @@
 # 미리보기
 
 
-# BE
-## 구조
+# 구조
 - config: 라이브러리 설정
 - controllers: API 컨트롤러
 - services: 도메인 구현 서비스, 도메인 모델 별로 디렉토리 구성
 
 
-### 사용 기술
+# 사용 기술
 - **Kotlin** 1.9.25
 - **Spring Boot** 3.3.4
 - **JPA** with Hibernate
 - **QueryDSL** 5.0.0
 - **Kotlin Coroutines** 1.8.0
 - **H2** 데이터베이스
-
-# FE
 
 # 코드 빌드, 테스트, 실행 방법
 ### API 빌드, 실행
